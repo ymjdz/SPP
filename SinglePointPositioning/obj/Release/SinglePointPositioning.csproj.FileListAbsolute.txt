@@ -1,0 +1,15 @@
+G:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\bin\Release\SinglePointPositioning.exe.config
+G:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\bin\Release\SinglePointPositioning.exe
+G:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\bin\Release\SinglePointPositioning.pdb
+G:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\obj\Release\SinglePointPositioning.csprojResolveAssemblyReference.cache
+G:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\obj\Release\SinglePointPositioning.Form1.resources
+G:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\obj\Release\SinglePointPositioning.Form2.resources
+G:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\obj\Release\SinglePointPositioning.Help.resources
+G:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\obj\Release\SinglePointPositioning.Properties.Resources.resources
+G:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\obj\Release\SinglePointPositioning.csproj.GenerateResource.Cache
+G:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\obj\Release\SinglePointPositioning.exe
+G:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\obj\Release\SinglePointPositioning.pdb
+G:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\obj\Release\SinglePointPositioning.Paint.resources
+H:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\bin\Release\SinglePointPositioning.exe.config
+H:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\obj\Release\SinglePointPositioning.exe
+H:\C#学习\VS源代码\SinglePointPositioning\SinglePointPositioning\obj\Release\SinglePointPositioning.pdb
